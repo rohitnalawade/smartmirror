@@ -13,19 +13,19 @@ Module.register("compliments",{
 	defaults: {
 		compliments: {
 			morning: [
-				"Good morning, handsome!",
-				"Enjoy your day!",
-				"How was your sleep?"
+				" Good thoughts precede great deeds. Great deeds precede success. Have a great day!",
+				"If yesterday was a good day, don’t stop. Maybe your winning streak has just begun. Good morning.",
+				" The biggest sources of motivation are your own thoughts, so think big and motivate yourself to win. Good morning."
 			],
 			afternoon: [
-				"Hello, beauty!",
-				"You look sexy!",
+				"May you live every day of your life!",
+				"You look nice, Good Afternoon",
 				"Looking good today!"
 			],
 			evening: [
-				"Wow, you look hot!",
-				"You look nice!",
-				"Hi, sexy!"
+				"Wow, you look handsom!",
+				"You look nice!, Good evening",
+				"Hi , How was your day ?"
 			]
 		},
 		updateInterval: 30000,
